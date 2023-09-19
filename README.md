@@ -54,7 +54,7 @@ Create by: Денис Казанцев & Артем Николаев
             {
                 return true;
             }
-;
+        ;
 
             return false;
         }
